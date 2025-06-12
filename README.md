@@ -1,6 +1,6 @@
 # Cyber Defense Frameworks Labs
 
-## Faramework Overview: 
+## Frameworks Overview: 
 ----------------
 
 |   Key Concepts & Frameworks Learning Paths:                           |
